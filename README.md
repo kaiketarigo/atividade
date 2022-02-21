@@ -5,11 +5,11 @@
 
 
 
-fun main() {
+    fun main() {
     
     var op = 11
    
-   while (op != 0) {
+     while (op != 0) {
     
         println("=======Escolha uma opção=========")
         println("1 - Cálculo de média: ")
@@ -57,4 +57,4 @@ fun main() {
                     }
                 }
 
-}
+    }
