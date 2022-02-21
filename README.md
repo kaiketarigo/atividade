@@ -28,7 +28,7 @@
             var n2 = readLine()!!.toInt()
             var rmedia = (n1 + n2) / 2
 
-            println("A média é: 1${rmedia}")
+            println("A média é: ${rmedia}")
 
         } else
             if (opcao == 2) {
